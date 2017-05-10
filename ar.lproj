@@ -1,0 +1,294 @@
+/* PHEmailViewController.m */
+"\nCheck your internet connection & try again. If problem persists, try in an hour or so. (Perhaps website construction?)" = "\تحقق من اتصالك بالإنترنت وحاول مرة أخرى. إذا استمرت المشكلة، حاول في غضون ساعة أو نحو ذلك. ";
+
+/* PHEmailViewController.m */
+"\nIt can take up to a week+ for a reply depending on the current volume of emails." = "يمكن أن يستغرق الأمر ما يصل إلى أسبوع او اكثر للرد على حسب حجم البريد المرسل
+/* PHEmailViewController.m */
+"\nIt can take up to a week+ for a reply depending on the current volume of emails. \nPlease check your spam folder for a reply!" = "قد يستغرق الرد عليك حوالي اسبوع على حسب البريد المستلم حاول ان تلقي نظرة على البريد غير المرغوب فيه;
+
+/* PHMediaUpload.m */
+"Add Music" = "اضافة موسيقى";
+
+/* WorldWide */
+"Back" = "رجوع";
+
+/* WorldWide */
+"Cancel" = "الغاء";
+
+/* PHStorySettingsViewController.m */
+"Contact" = "مراسلتي";
+
+/* PHMediaUpload.m */
+"Continue" = "موافقة";
+
+/* PHMainSettingsViewController.m */
+"Custom Filters" = "فلاتر مخصصة";
+
+/* WorldWide */
+"Delete" = "حذف";
+
+/* PHMainSettingsViewController.m */
+"Disable Aviary Editor" = "تعطيل محرر القص";
+
+/* PHStorySettingsViewController.m */
+"Disable Discovery Stories" = "تعطيل القصص المباشرة";
+
+/* PHMainSettingsViewController.m */
+"Disable Hold to Record" = "تعطيل الضغط للتسجيل";
+
+/* PHMainSettingsViewController.m */
+"Disable Live Stories" = "تعطيل البث المباشر للستوري";
+
+/* PHMainSettingsViewController.m */
+"Disable Screenshots in Feed/Chat" = "تعطيل اكتشاف تصوير الشاشة للخاص";
+
+/* PHMainSettingsViewController.m */
+"Disable Video Editor" = "تعطيل قص الفيديو";
+
+/* WorldWide */
+"Dismiss" = "تجاهل";
+
+/* No comment provided by engineer. */
+"Done" = "حفظ";
+
+/* PHEmailViewController.m */
+"Email Failed To Send!" = "فشل ارسال الايميل";
+
+/* PHEmailViewController.m */
+"Email Sent Successfully!" = "تم ارسال الايميل بنجاح";
+
+/* PHMainSettingsViewController.m */
+"Enable 3rd Party Tweaks" = "تفعيل ادوات الطرف الثالث";
+
+/* PHMainSettingsViewController.m */
+"Enable Mark Read" = "تعطيل علامة القراءة";
+
+/* PHMainSettingsViewController.m */
+"Enable Paint Hooks" = "تفعيل محرر الطلاء";
+
+/* No comment provided by engineer. */
+"Error" = "فشل";
+
+/* PHMediaUpload.m */
+"Error: Try converting/fixing video before selecting.." = "تنبيه:حاول مرة اخرى لاصلاح الفيديو وتحريره قبل التحديد عليه";
+
+/* WorldWide */
+"Failure!" = "لم يتم";
+
+/* PHMainSettingsViewController.m */
+"Fake Location" = "تزييف الموقع";
+
+/* PHFilterManagerViewController.m */
+"Filter Manager" = "ادارة الفلتر";
+
+/* PHMediaUpload.m */
+"Flip Horizontal" = "نقر افقي";
+
+/* PHMediaUpload.m */
+"Flip Vertical" = "نقر عمودي";
+
+/* PHMainSettingsViewController.m */
+"Force Low Power Mode" = "وضع توفير الطاقة دائما";
+
+/* WorldWide */
+"Hold Image to Save" = "الضغط على الصورة للحفظ";
+
+/* WorldWide */
+"How many licenses would you like to buy?" = "كم رخصة تريد للشراء؟";
+
+/* WorldWide */
+"Hybrid" = "مختلط";
+
+/* PHSnapSaver.m */
+"Image saved to camera roll!" = "حفظ الصورة الى البوم الكاميرا";
+
+/* PHSnapSaver.m */
+"Image saved to filter vault!" = "تم حفظ صورة الفلتر للمحفظه";
+
+/* PHSnapSaver.m */
+"Image saved to vault!" = "حفظ الصورة الى المحفظة";
+
+/* PHLoginViewController */
+"Incorrect Password!" = "رقم سري خاطيء";
+
+/* No comment provided by engineer. */
+"Indeterminate progress" = "جاري التقدم";
+
+/* PHStorySettingsViewController.m */
+"Installed Tweaks" = "تحميل الاداة";
+
+/* PHLicenseViewController.m */
+"License Support" = "دعم التراخيص";
+
+/* No comment provided by engineer. */
+"Loading" = "جاري الفتح";
+
+/* PHMainSettingsViewController.m */
+"Login/Register" = "دخول/تسجيل";
+
+/* PHLicenseViewController.m */
+"Logout" = "تسجيل خروج";
+
+/* PHMediaUpload.m */
+"Manually choose an orientation!" = "اختيار التوجه يدويا";
+
+/* No comment provided by engineer. */
+"microphone_access_message" = "microphone_access_message";
+
+/* No comment provided by engineer. */
+"microphone_access_title" = "microphone_access_title";
+
+/* Status code error */
+"MoPub returned status code %d." = "MoPub returned status code %d.";
+
+/* WorldWide */
+"Never Show Again" = "Never Show Again";
+
+/* Used in the context: 'Showing 1 of 3 items' */
+"of" = "of";
+
+/* No comment provided by engineer. */
+"okay" = "okay";
+
+/* WorldWide */
+"Okay" = "Okay";
+
+/* WorldWide */
+"Orientation" = "Orientation";
+
+/* PHMediaUpload.m */
+"Override Orientation" = "Override Orientation";
+
+/* PHMainSettingsViewController.m */
+"Phantom" = "Phantom";
+
+/* PHStorySettingsViewController.m */
+"Phantom Account" = "Phantom Account";
+
+/* SettingsHook */
+"Phantom Configuration" = "Phantom Configuration";
+
+/* PHSettingsViewController.m */
+"PHANTOM SETTINGS" = "اعدادات الفانتوم";
+
+/* Used in the context: '1 photo' */
+"photo" = "الصور";
+
+/* Used in the context: '3 photos' */
+"photos" = "photos";
+
+/* PHMediaUpload.m */
+"Please help determine origin of video. 1. Video was saved from Snapchat.\n2. Video was recorded from iOS camera app." = "Please help determine origin of video. 1. Video was saved from Snapchat.\n2. Video was recorded from iOS camera app.";
+
+/* PHSnapSaver.m */
+"Problem saving image to custom album!" = "Problem saving image to custom album!";
+
+/* PHSnapSaver.m */
+"Problem saving image to directory.." = "Problem saving image to directory..";
+
+/* PHSnapSaver.m */
+"Problem saving image to vault.." = "Problem saving image to vault..";
+
+/* PHSnapSaver.m */
+"Problem saving video to custom album!" = "Problem saving video to custom album!";
+
+/* PHSnapSaver.m */
+"Problem saving video to vault.." = "Problem saving video to vault..";
+
+/* WorldWide */
+"Processing.." = "Processing..";
+
+/* PHStorySettingsViewController.m
+   WorldWide */
+"Purchase" = "Purchase";
+
+/* PHMainSettingsViewController.m */
+"Purchase Additional Licenses" = "Purchase Additional Licenses";
+
+/* PHMainSettingsViewController.m */
+"Record 20s Videos" = "تصوير مدة 20ثاينة";
+
+/* PHLicenseViewController.m */
+"Refresh Account" = "Refresh Account";
+
+/* PHLicenseViewController.m */
+"Register Device" = "تسجيل الجهاز";
+
+/* PHMainSettingsViewController.m */
+"Register/Login" = "دخول/تسجيل";
+
+/* PHMediaUpload.m */
+"Rotate 180" = "Rotate 180";
+
+/* PHMediaUpload.m */
+"Rotate 270" = "Rotate 270";
+
+/* PHMediaUpload.m */
+"Rotate 90" = "Rotate 90";
+
+/* PHMediaUpload.m */
+"Rotate Left" = "Rotate Left";
+
+/* PHMediaUpload.m */
+"Rotate Right" = "Rotate Right";
+
+/* PHMediaUpload.m */
+"RotateRightFlipHorizontal" = "RotateRightFlipHorizontal";
+
+/* PHMediaUpload.m */
+"RotateRightFlipVertical" = "RotateRightFlipVertical";
+
+/* WorldWide */
+"Satellite" = "Satellite";
+
+/* PHSnapSaver.m */
+"Saved image to %@!" = "Saved image to %@!";
+
+/* PHSnapSaver.m */
+"Saved video to %@!" = "Saved video to %@!";
+
+/* WorldWide */
+"Saving image.." = "جاري الحفظ للصورة..";
+
+/* WorldWide */
+"Saving video.." = "جاري الحفظ للفيديو..";
+
+/* WorldWide */
+"Search" = "Search";
+
+/* No comment provided by engineer. */
+"Select Photos" = "Select Photos";
+
+/* PHSnapSaver.m */
+"Snapchat does not have access to photos!" = "Snapchat does not have access to photos!";
+
+/* PHLoginViewController */
+"Sorry, this account has been suspended. Please contact the developer to contest!" = "Sorry, this account has been suspended. Please contact the developer to contest!";
+
+/* FakeLocationViewController.m */
+"Spoof Location" = "تزييف الموقع";
+
+/* WorldWide */
+"Standard" = "Standard";
+
+/* No comment provided by engineer. */
+"Success" = "Success";
+
+/* FakeLocationViewController.m */
+"To use, hold your finger on the map to select your new location." = "To use, hold your finger on the map to select your new location.";
+
+/* PHLoginViewController */
+"User not found!" = "لم نجد اسم المستخدم";
+
+/* PHSnapSaver.m */
+"Video saved to camera roll!" = "تم حفظ الفيديو بالبوم الكاميرا";
+
+/* PHSnapSaver.m */
+"Video saved to vault!" = "Video saved to vault!";
+
+/* PHMediaUpload.m */
+"Video Tool" = "ادوات الفيديو";
+
+/* PHFilterManagerViewController.m */
+"You have not saved any images to Filter Vault!" = "You have not saved any images to Filter Vault!";
+
